@@ -1,0 +1,30 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+   
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+.text-warning {
+    color: rgb(255, 0, 183);
+}
+
+#most-important {
+    color: brown;
+    font-size: 16px;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+* {
+    color: purple;
+}
+
+.text-capitalized {
+    text-transform: capitalize;
+}
